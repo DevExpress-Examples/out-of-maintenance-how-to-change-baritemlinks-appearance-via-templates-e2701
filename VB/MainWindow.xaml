@@ -4,7 +4,7 @@
         xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
         xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars"
              xmlns:dxc="http://schemas.devexpress.com/winfx/2008/xaml/core"
-              xmlns:dxcn="clr-namespace:DevExpress.Xpf.Core.Native;assembly=DevExpress.Printing.v16.1.Core"
+              xmlns:dxcn="clr-namespace:DevExpress.Xpf.Core.Native;assembly=DevExpress.Printing.v21.1.Core"
         xmlns:dxbt="http://schemas.devexpress.com/winfx/2008/xaml/bars/themekeys"
         xmlns:local="clr-namespace:CustomResources"
         Title="MainWindow" Height="350" Width="525">
